@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Welcome to Admin Panel"
+echo "Anuj BHATNAGAR"
 
 cat /proc/meminfo
 
